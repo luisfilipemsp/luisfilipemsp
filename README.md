@@ -4,5 +4,6 @@ My GitHub Stats
 <hr/>
 
 <div align="center">
-<img class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=luisfilipemsp" /> 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luisfilipemsp)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
