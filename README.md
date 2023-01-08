@@ -4,5 +4,5 @@ My GitHub Stats
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipemsp&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipemsp&layout=compact?hide=html" />
 </div>
