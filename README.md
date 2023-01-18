@@ -3,8 +3,9 @@ My GitHub Stats
 </h3>
 <hr/>
 
+<details>
 <div align="center">
-  <img src="https://github-readme-stats-8eg4-git-master-luisfilipemsp.vercel.app/api?username=luisfilipemsp&layout=compact&title_color=000000&bg_color=FFFFFF" />
-  ![Night Cruising's GitHub stats](https://github-readme-stats-8eg4-git-master-luisfilipemsp.vercel.app/api?username=luisfilipemsp&layout=compact&title_color=000000&bg_color=FFFFFF")
+  <img src="http://github-readme-stats-8eg4-git-master-luisfilipemsp.vercel.app/api?username=luisfilipemsp&layout=compact&title_color=000000&bg_color=FFFFFF" />
 </div>
+</details>
  
