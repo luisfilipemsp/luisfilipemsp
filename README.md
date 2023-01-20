@@ -1,5 +1,5 @@
 
-### Hi there, I'm Luís Filipe 👋🧑🏻
+### Hey you, I'm Luís Filipe 👋🏻🧑🏻
 <details>
 <summary>:zap: GitHub Stats </summary>
 <div align="left">
