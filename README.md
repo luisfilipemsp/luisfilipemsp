@@ -1,5 +1,10 @@
 
 ### Hey you, I'm Luís Filipe 👋🏻🧑🏻
+
+#### Connect with me
+
+[![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/luisfilipepaixao/)
+
 <details>
 <summary>:zap: GitHub Stats </summary>
 <div align="left">
